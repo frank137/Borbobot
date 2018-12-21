@@ -1,0 +1,12 @@
+Bot commands
+
+help - richiedi aiuto 
+saluta - saluta
+
+
+
+Sectret commands 
+
+/controllo_manual13
+
+stop_man_controll <-- in console
