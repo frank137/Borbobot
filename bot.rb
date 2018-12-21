@@ -49,8 +49,7 @@ bot.get_updates(fail_silently: true) do |message|
 			  		elsif user_nam == "giuliamalag"
 			  			reply.text = "#{saluti.sample.capitalize} Giulietta! Che belle Caviglie che hai 😏"
 			  		elsif user_nam == "Fabio_Dieli"
-			  			reply.text = "Fabio, non posso essere il tuo borbottino 😔,
-			  							 ma sono disposto a cederti le caviglie di Giulietta 🙃"
+			  			reply.text = "Fabio, non posso essere il tuo borbottino 😔, ma sono disposto a cederti le caviglie di Giulietta 🙃"
 		  			elsif user_nam != "fra137"
 		  				reply.text = "Tu non sei il mio Padrone, non prendo ordini da te!"
 		  			else
